@@ -28,15 +28,18 @@ To create Hospital Management System software that will meet the needs of the ap
 
 ## Package Diagram:
 
-<img width="623" height="323" alt="image" src="https://github.com/user-attachments/assets/61b88863-bde8-4528-b59a-9eb332a57500" />
+<img width="882" height="603" alt="Package4p" src="https://github.com/user-attachments/assets/99737834-4feb-4c52-a826-508a8f90b41d" />
+
 
 
 ## Activity Diagram:
-<img width="417" height="727" alt="image" src="https://github.com/user-attachments/assets/180a779c-be04-4016-957f-de278b548f38" />
+  <img width="1185" height="900" alt="Activty4p" src="https://github.com/user-attachments/assets/af83a55d-5b4e-40c1-a48d-bb0c27b7432c" />
+
 
 
 ## Communication Diagram:
-<img width="917" height="663" alt="image" src="https://github.com/user-attachments/assets/90590011-ea95-4749-bf52-4923d7246888" />
+<img width="1210" height="776" alt="Communication4p" src="https://github.com/user-attachments/assets/6daf3a13-b1c4-41a3-b293-bb31f487790c" />
+
 
 
 
